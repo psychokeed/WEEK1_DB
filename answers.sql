@@ -1,4 +1,3 @@
-l
 
 -- 1️ Created a new database called salesDB
 CREATE DATABASE salesDB;
